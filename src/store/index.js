@@ -33,7 +33,6 @@ export default function (/* { ssrContext } */) {
       async getCharactersList({commit, state}, payload = '') {
         try {
           let res = await axios.get(state.baseURL+`?page=${payload}`)
-          console.log(res.data)
           commit("SETDATA", {data: res.data, filter: false})
         } catch (error) {
           commit("SETERROR")

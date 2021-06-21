@@ -1,6 +1,8 @@
-# Rick and Morty app (rick_morty)
+# Ghangelog
 
-A Rick and Morty characters guide
+This repository ir for a Vue.js Developer Test.
+
+# Setup
 
 ## Install the dependencies
 ```bash
@@ -12,12 +14,14 @@ yarn
 quasar dev
 ```
 
-### Lint the files
-```bash
-yarn run lint
-```
-
 ### Build the app for production
 ```bash
 quasar build
 ```
+
+## Routes
+
+- The home view is located in /.
+
+- The character view is located in /characeter/:id.
+

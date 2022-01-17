@@ -1,6 +1,6 @@
-# Ghangelog
+# Rick&Morty-pedia
 
-This repository ir for a Vue.js Developer Test.
+A rick and morty aplication using Quasar, [demo](rick-and-morty-app-gold.vercel.app)
 
 # Setup
 

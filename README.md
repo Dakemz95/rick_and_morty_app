@@ -1,6 +1,6 @@
 # Rick&Morty-pedia
 
-A rick and morty aplication using Quasar, [demo](rick-and-morty-app-gold.vercel.app)
+A rick and morty aplication using Quasar, [demo](https://rick-and-morty-app-gold.vercel.app/)
 
 # Setup
 
